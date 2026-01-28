@@ -1,2 +1,3 @@
 # bludofobia
 horror mod
+fr
